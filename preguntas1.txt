@@ -1,0 +1,15 @@
+3.1 Cuando los tres factores de escala son iguales, se denomina escalado uniforme.
+Ahora, lee y contesta las siguientes cuestiones:
+
+
+¿Que ocurre si los factores de escala son diferentes entre sí?
+- La transformación sera irregular.
+
+¿Y si algun factor de escala es cero?
+- Los puntos no cambiaran en las coordenadas de dicho factor.
+
+¿Que ocurre si uno o varios factores de escala son negativos? 
+-los puntos iran al origen de la coordenada y luego iran en dirección opuesta.
+
+¿Y si el factor de escala esta entre cero y uno?
+- los puntos se moveran lentamente, o el programa lo llevara al siguiente entero.
